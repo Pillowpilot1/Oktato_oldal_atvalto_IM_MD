@@ -1,1 +1,0 @@
-https://cloudinary.com/blog/build-a-custom-html5-video-player-with-javascript
