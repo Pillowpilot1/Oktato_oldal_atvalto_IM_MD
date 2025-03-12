@@ -4,7 +4,7 @@ const submitButton = document.getElementById('submit');
 
 const kerdesek = [
     {
-        question: "A kettes számrendszer helyiértékes számrendszer:",
+        question: "A kettes számrendszer helyiértékes számrendszer:...hatványát fejezi ki ",
         answers: {
           a: "jobbról balra haladva minden egyes számjegy a 2 eggyel nagyobb",
           b: "jobbról balra haladva minden egyes számjegy a 2 eggyel kisebb",
