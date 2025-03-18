@@ -1,9 +1,21 @@
-body{
-    background-color: dimgrey;
+.cim{
+    text-align: center;
 }
 
 video {
     max-width: 100%;
     height: auto;
+}
+
+body{
+    text-align: justify;
+    font-family: "Noto Sans Nandinagari", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: beige;
+}
+
+.videjo{
     text-align: center;
 }
+
